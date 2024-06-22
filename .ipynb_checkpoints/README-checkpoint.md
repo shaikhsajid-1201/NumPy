@@ -12,4 +12,4 @@
 - The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code equations, visualizations and narrative text.
 - The Notebook has support for over 40 programming languages, including Python, R, Julia, and Scala.
 
-[Read NumPy Array Docs](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html)
+(Read NumPy Array Docs)[https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html]
