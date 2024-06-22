@@ -7,3 +7,7 @@
 - It is fast
 - It is easy to learn
 - NumPy uses relatively less memory to store data
+
+### What is Jupyter Notebook?
+- The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code equations, visualizations and narrative text.
+- The Notebook has support for over 40 programming languages, including Python, R, Julia, and Scala.
