@@ -1,6 +1,8 @@
 # NumPy
 
 ### What is NumPy?
+NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+
 ### Why use NumPy?
 - NumPy provides efficient storage
 - It also provides better ways of handling data for processing
